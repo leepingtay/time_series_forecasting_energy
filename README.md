@@ -1,5 +1,5 @@
 ## Time Series Forecasting on Energy Consumption Data Using XGBoost
-This project is to perform time series forecasting on energy consumption data using XGBoost model in Python. The model has the accuracy of 91 percent.
+This project is to perform time series forecasting on energy consumption data using XGBoost model in Python
 
 ## Project Goal
 To predict energy consumption data using XGBoost model.
